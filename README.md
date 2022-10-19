@@ -1,2 +1,3 @@
 # JPMC Task 2
-Starter repo for task 2 of JPMC's Forage program
+
+Forked repository for the JPMC Software Engineering virtual experience program.
